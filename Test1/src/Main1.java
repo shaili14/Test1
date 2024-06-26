@@ -42,7 +42,7 @@ public class Main1 {
 		a.company(20000, 1000, 500);
 		b.company(35000);
 		b.company(35000, 1500);
-		b.company(35000, 1500, 400);
+		b.company(35000, 1500, 400);;
 	}
 
 }
